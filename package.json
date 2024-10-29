@@ -1,0 +1,22 @@
+{
+  "name": "berrystore",
+  "version": "0.0.1",
+  "description": "A roblox datastore alternative based on node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerryJam-Studios/BerryStore.git"
+  },
+  "keywords": [
+    "datastore"
+  ],
+  "author": "BerryJam Studios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BerryJam-Studios/BerryStore/issues"
+  },
+  "homepage": "https://github.com/BerryJam-Studios/BerryStore#readme"
+}
