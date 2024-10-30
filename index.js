@@ -27,6 +27,7 @@ function StoreData(dataName, dataValue, keyName) {
             if (existingEntry) {
                 existingEntry[dataName] = dataValue;
             } else {
+                // idk how to do this without a data table
                 obj.data.push({ [dataName]: dataValue });
             }
 
