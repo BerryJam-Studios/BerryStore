@@ -1,0 +1,6 @@
+{
+  "name": "BerryStore",
+  "port": 8080,
+  "limit": 4096000,
+  "_comment": "the limit is the maximum data in a key, in bytes"
+}
